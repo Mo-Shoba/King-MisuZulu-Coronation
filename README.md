@@ -66,6 +66,8 @@ The purpose of this project was to try and gauge people's sentiment's around the
   <img src="https://github.com/Mo-Shoba/King-MisuZulu-Coronation/blob/main/Images/Hashtags_screenshot.png" width="600" height="600" alt="screenshot" />
 </div>
 
+---
+
 <div align="center"> 
   <img src="https://github.com/Mo-Shoba/King-MisuZulu-Coronation/blob/main/Images/Positive_sentiments_wordcloud.png" width="600" height="auto" alt="screenshot" />
 </div>
